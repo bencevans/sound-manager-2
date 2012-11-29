@@ -5549,7 +5549,7 @@ if (window.SM2_DEFER === undefined || !SM2_DEFER) {
  * ------------------------------
  */
 
-window.SoundManager = SoundManager; // constructor
-window.soundManager = soundManager; // public API, flash callbacks etc.
+module.exports = SoundManager; // constructor
+// window.soundManager = soundManager; // public API, flash callbacks etc.
 
 }(window));

@@ -3,3 +3,5 @@ build.sh
 tmp
 .build.properties
 download
+components
+build
