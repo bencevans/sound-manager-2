@@ -1,6 +1,6 @@
 {
-  "name": "SoundManager2",
-  "repo": "uniba/SoundManager2",
+  "name": "sound-manager-2",
+  "repo": "uniba/sound-manager-2",
   "description": "Using HTML5 and Flash, SoundManager 2 provides reliable cross-platform audio under a single JavaScript API.",
   "version": "2.97.20121104",
   "keywords": ["audio"],
